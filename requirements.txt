@@ -1,0 +1,7 @@
+streamlit
+pyyaml
+bcrypt
+qrcode
+pandas
+streamlit-option-menu
+pytz
